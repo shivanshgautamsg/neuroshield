@@ -56,5 +56,6 @@ requests
 twilio
 opencv-python
 websockets
-
+statsmodels
 python-dotenv
+
